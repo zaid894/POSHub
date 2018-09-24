@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "611683074773",
+    "firebase_url": "https://poshub-a8b57.firebaseio.com",
+    "project_id": "poshub-a8b57",
+    "storage_bucket": "poshub-a8b57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611683074773:android:40192aa89ef81129",
+        "android_client_info": {
+          "package_name": "com.cyborgstechnology.pos.poshub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611683074773-d18fen2vclbfglt2276mjknkepfstcgr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cyborgstechnology.pos.poshub",
+            "certificate_hash": "89ffe99f51a3808f928aa85e10b9e8cffccdef0e"
+          }
+        },
+        {
+          "client_id": "611683074773-fknbkjbivngl2fn0aolhsp3tfgtjet3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd1AxNxinBCR_jzaAROk5vVwI9ymGHhJw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611683074773-fknbkjbivngl2fn0aolhsp3tfgtjet3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
